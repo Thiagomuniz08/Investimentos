@@ -1,4 +1,4 @@
-# app Calculo de Investimento 
+# Calculo de Investimento 
 Aplicativo de calculo de Investimentos
 
 ## Tecnologias
@@ -27,10 +27,3 @@ https://github.com/Thiagomuniz08/myapp-Bitola
 https://github.com/Thiagomuniz08/App-Login
 https://github.com/Thiagomuniz08/Financiamento
 https://github.com/Thiagomuniz08/AvaliacaoIMC
-=======
-## Repositórios
-
-[Bitola - Flutter](https://github.com/ErickAguiar06/Bitola-flutter)  
-[Financiamento - Flutter](https://github.com/ErickAguiar06/Financiamento-flutter)  
-[Avaliação IMC](https://github.com/ErickAguiar06/AvaliacaoIMC)
->>>>>>> 6a8ed3b773710dba21146a46ff3292a902473779
