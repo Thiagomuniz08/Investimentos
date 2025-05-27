@@ -19,7 +19,7 @@ flutter run
 ```
 
 ## Prints 
-![Calculadora](print.png)
+![Calculadora](pops.png)
 
 
 ## Repositórios 
